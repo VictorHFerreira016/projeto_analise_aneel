@@ -1,0 +1,16 @@
+/__pycache__
+relatorios.ipynb
+banco_de_dados.py
+raw_data/indicadores-continuidade-coletivos-2010-2019.csv
+raw_data/indicadores-continuidade-coletivos-2020-2029.csv
+raw_data/indicadores-continuidade-coletivos-atributos.csv
+raw_data/indicadores-continuidade-coletivos-limite.csv
+raw_data/indice-aneel-satisfacao-consumidor.csv
+raw_data/indqual-municipio.csv
+raw_data/municipios-brasil-completo.csv
+raw_data/RELATORIO_DTB_BRASIL_2024_MUNICIPIOS.xlsx
+raw_data/tarifas-homologadas-distribuidoras-energia-eletrica.csv
+processed_data/indicadores_consolidados_aneel.parquet
+processed_data/indicadores_satisfacao.parquet
+processed_data/municipios_brasil.parquet
+estrutura.py
