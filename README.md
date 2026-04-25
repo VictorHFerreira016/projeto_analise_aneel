@@ -103,7 +103,7 @@ Todos os dados são **públicos e abertos**, disponibilizados pela ANEEL no port
 | Dataset | Descrição | Link |
 |---------|-----------|------|
 | Indicadores de Continuidade (DEC e FEC) | Valores mensais de DEC e FEC por conjunto e outras tabelas | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec) |
-| Atributos dos Conjuntos | Metadados dos conjuntos de unidades consumidoras | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indicadores-de-continuidade-coletivos) |
+| Relatório de Municípios | Tabela de municípios, regiões e estados | [🔗 Dados IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html) |
 
 > 📧 Contato ANEEL (qualidade): srd.qualidade@aneel.gov.br
 > 📧 Contato ANEEL (IASC): pesquisa_iasc@aneel.gov.br
