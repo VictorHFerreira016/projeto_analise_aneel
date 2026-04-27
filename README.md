@@ -106,14 +106,8 @@ Todos os dados são **públicos e abertos**, disponibilizados pela ANEEL no port
 
 | Dataset | Descrição | Link |
 |---------|-----------|------|
-| Indicadores de Continuidade (2010–2019) | Valores mensais de DEC e FEC por conjunto | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indicadores-de-continuidade-coletivos) |
-| Indicadores de Continuidade (2020–2029) | Continuação da série | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indicadores-de-continuidade-coletivos) |
-| Limites Regulatórios | Metas de DEC e FEC por distribuidora/conjunto | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indicadores-de-continuidade-coletivos) |
-| Atributos dos Conjuntos | Metadados dos conjuntos de unidades consumidoras | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indicadores-de-continuidade-coletivos) |
-| IASC — Satisfação do Consumidor | Índice anual de satisfação por distribuidora (2006–2021) | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indice-aneel-de-satisfacao-do-consumidor-iasc) |
-| Índice de Qualidade por Município | Vinculação conjunto → município | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indicadores-de-continuidade-coletivos) |
-| Municípios do Brasil (IBGE 2024) | Tabela DTB com códigos e nomes oficiais | [🔗 IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html) |
-| Tarifas Homologadas | Tarifas das distribuidoras | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/tarifas-de-fornecimento-de-energia-eletrica) |
+| Indicadores de Continuidade (DEC e FEC) | Valores mensais de DEC e FEC por conjunto e outras tabelas | [🔗 Dados Abertos ANEEL](https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec) |
+| Relatório de Municípios | Tabela de municípios, regiões e estados | [🔗 Dados IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html) |
 
 > 📧 Contato ANEEL (qualidade): srd.qualidade@aneel.gov.br
 > 📧 Contato ANEEL (IASC): pesquisa_iasc@aneel.gov.br
