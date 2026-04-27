@@ -2,12 +2,16 @@
 
 Dashboard analítico construído com **Python + Power BI** para acompanhar os indicadores de continuidade e satisfação do consumidor das distribuidoras de energia elétrica reguladas pela ANEEL.
 
+<!-- 
+
 ---
 
 ## 📺 Demonstração
 
 > 🎬 **[Assistir no YouTube →](htts..)**
-> *(...)*
+> *(...)* 
+
+-->
 
 ---
 
